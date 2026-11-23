@@ -1,0 +1,7 @@
+models/
+*.gguf
+*.onnx
+config.yaml
+.env
+memory_db/
+logs/

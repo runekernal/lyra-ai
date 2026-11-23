@@ -1,1 +1,1 @@
-# lora-ai
+# lyra-ai
